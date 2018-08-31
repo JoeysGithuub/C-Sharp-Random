@@ -1,0 +1,11 @@
+C:\Users\smith\workspace\csharp\exercises\random\bin\Debug\netcoreapp2.1\random.deps.json
+C:\Users\smith\workspace\csharp\exercises\random\bin\Debug\netcoreapp2.1\random.runtimeconfig.json
+C:\Users\smith\workspace\csharp\exercises\random\bin\Debug\netcoreapp2.1\random.runtimeconfig.dev.json
+C:\Users\smith\workspace\csharp\exercises\random\bin\Debug\netcoreapp2.1\random.dll
+C:\Users\smith\workspace\csharp\exercises\random\bin\Debug\netcoreapp2.1\random.pdb
+C:\Users\smith\workspace\csharp\exercises\random\obj\Debug\netcoreapp2.1\random.csprojAssemblyReference.cache
+C:\Users\smith\workspace\csharp\exercises\random\obj\Debug\netcoreapp2.1\random.csproj.CoreCompileInputs.cache
+C:\Users\smith\workspace\csharp\exercises\random\obj\Debug\netcoreapp2.1\random.AssemblyInfoInputs.cache
+C:\Users\smith\workspace\csharp\exercises\random\obj\Debug\netcoreapp2.1\random.AssemblyInfo.cs
+C:\Users\smith\workspace\csharp\exercises\random\obj\Debug\netcoreapp2.1\random.dll
+C:\Users\smith\workspace\csharp\exercises\random\obj\Debug\netcoreapp2.1\random.pdb
